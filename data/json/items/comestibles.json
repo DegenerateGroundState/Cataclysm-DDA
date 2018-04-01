@@ -7295,7 +7295,7 @@
 	{
         "type" : "COMESTIBLE",
         "id" : "ss_turnover_blueberry",
-        "name" : "filled bakery, shelf stable, filled french toast", "//" : "redundant name? tell the US army!",
+        "name" : "filled bakery, shelf stable, blueberry turnover",
         "weight" : 100,
         "color" : "brown",
 		"stim" : 1,
